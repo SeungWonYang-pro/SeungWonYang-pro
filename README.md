@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![SeungwonYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungWonYang-pro&show_icons=true&theme=tokyonight)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/ysw1222)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ysw1222)](https://solved.ac/ysw1222)
