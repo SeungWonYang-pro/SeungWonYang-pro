@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div></div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ysw1222)](https://solved.ac/ysw1222)
+<div>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ysw1222)](https://solved.ac/ysw1222)</div>
 ![SeungwonYang's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungWonYang-pro&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungWonYang-pro&layout=demo&theme=dark)
